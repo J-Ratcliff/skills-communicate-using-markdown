@@ -23,3 +23,7 @@ var myVar = "Hello, world!";
 ``` python
 my_string = "Hello, world!";
 ```
+- [x] Start a list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
